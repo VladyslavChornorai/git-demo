@@ -12,3 +12,6 @@ QWERTY LOREEEM LOREEEM
 Bla bla bla bla
 Lorem 123 123 123
 
+TestMerging 1
+
+
